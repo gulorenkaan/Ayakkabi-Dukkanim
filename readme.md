@@ -1,0 +1,1 @@
+Ayakkabı Dükkanım isimli web sitesini patika.dev üzerinden almakta olduğum Frontend eğitimi kapsamında hazırladım. Bootstrap ögelerini kullandım ve yönergelere uygun hareket ettim.
